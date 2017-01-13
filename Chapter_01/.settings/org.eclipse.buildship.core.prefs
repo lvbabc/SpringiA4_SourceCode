@@ -1,0 +1,8 @@
+connection.arguments=
+connection.gradle.distribution=GRADLE_DISTRIBUTION(LOCAL_INSTALLATION(/home/lb/.sdkman/candidates/gradle/3.0))
+connection.java.home=/opt/jdk1.8.0_60
+connection.jvm.arguments=
+connection.project.dir=
+derived.resources=.gradle,build
+eclipse.preferences.version=1
+project.path=\:
